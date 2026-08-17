@@ -115,7 +115,8 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1rem;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
   padding: 0.8rem 0;
   overflow: visible;
 }
@@ -131,74 +132,23 @@ a:hover {
   color: var(--text);
 }
 
-.topbar-actions {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  overflow: visible;
-}
-
-.menu-dropdown {
-  position: relative;
-  z-index: 45;
-  overflow: visible;
-}
-
-.menu-button {
-  display: inline-flex;
-  align-items: center;
-  color: var(--text);
-  font: inherit;
-  cursor: pointer;
-}
-
-.menu-button {
-  gap: 0.45rem;
-  background: var(--control-bg);
-  border: 1px solid var(--control-border);
-  border-radius: 0.5rem;
-  padding: 0.45rem 0.7rem;
-}
-
-.menu-button:hover {
-  border-color: var(--control-border-hover);
-}
-
-.menu-button[aria-expanded="true"] {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 2px var(--focus-ring);
-}
-
 .menu-list {
   list-style: none;
-  position: absolute;
-  right: 0;
-  top: calc(100% + 0.5rem);
-  z-index: 60;
-  min-width: 11rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem;
   margin: 0;
-  padding: 0.35rem;
-  background: var(--panel);
-  border: 1px solid var(--border);
-  border-radius: 0.6rem;
-  box-shadow: 0 12px 28px var(--menu-shadow);
-  pointer-events: auto;
-}
-
-.menu-list * {
-  pointer-events: auto;
-}
-
-.menu-list[hidden] {
-  display: none;
+  padding: 0;
 }
 
 .menu-list a {
   display: block;
-  padding: 0.45rem 0.55rem;
+  padding: 0.45rem 0.6rem;
   color: var(--link);
   text-decoration: none;
   border-radius: 0.45rem;
+  white-space: nowrap;
 }
 
 .menu-list a:hover {
@@ -1012,17 +962,13 @@ code {
     font-size: 1rem;
   }
 
-  .topbar-actions {
-    gap: 0.45rem;
-  }
-
-  .menu-button {
-    padding: 0.4rem 0.6rem;
-  }
-
   .menu-list {
-    min-width: 9.5rem;
-    max-width: min(88vw, 14rem);
+    gap: 0.15rem;
+    font-size: 0.92rem;
+  }
+
+  .menu-list a {
+    padding: 0.35rem 0.5rem;
   }
 
   .hero {
@@ -1136,13 +1082,5 @@ code {
 
   .pub-cover-link {
     max-width: 180px;
-  }
-
-  .menu-button {
-    padding: 0.4rem;
-  }
-
-  .menu-button span {
-    display: none;
   }
 }
