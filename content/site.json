@@ -18,6 +18,7 @@
     { "label": "Projects", "path": "pages/projects.html" },
     { "label": "Publications", "path": "pages/publications.html" },
     { "label": "News", "path": "pages/news.html" },
+    { "label": "Media", "path": "pages/media.html" },
     { "label": "CV", "path": "pages/cv.html" }
   ],
   "pages": {
@@ -25,6 +26,7 @@
     "projects.html": { "title": "Projects", "description": "Research projects by Betty Cohn." },
     "publications.html": { "title": "Publications", "description": "Publications by Betty Cohn." },
     "news.html": { "title": "News", "description": "Latest news and updates from Betty Cohn." },
+    "media.html": { "title": "Media", "description": "Media coverage, interviews, and appearances featuring Betty Cohn." },
     "cv.html": { "title": "CV", "description": "Curriculum Vitae of Betty Cohn." }
   },
   "profile_image": "assets/images/profile.jpg",
