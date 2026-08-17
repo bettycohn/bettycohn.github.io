@@ -1,0 +1,11 @@
+{
+  "name": "academic-website-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A data-driven academic website template for GitHub Pages",
+  "scripts": {
+    "dev": "python3 scripts/reload_server.py --port 8000",
+    "dev:reload": "python3 scripts/reload_server.py --port 8000",
+    "dev:simple": "python3 -m http.server 9100"
+  }
+}

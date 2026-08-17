@@ -1,0 +1,266 @@
+[
+  {
+    "id": "cohn-2026-ajob",
+    "title": "Capturing Perceived Utility from Qualitative Studies of Genomic Sequencing: Translating a Conceptual Model into a Working Codebook",
+    "content": "Cohn, B., Theoryn, T., Sommerland, O., Murali, P., Yu, J. H., Anderson, K., et al., & MacDuffie, K. E.",
+    "link": "https://doi.org/10.1080/23294515.2026.2691711",
+    "publisher": "AJOB Empirical Bioethics, 2026",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "key_publications",
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1080/23294515.2026.2691711"
+      }
+    ],
+    "created_at": 1780272000,
+    "updated_at": 1780272000
+  },
+  {
+    "id": "menon-2026-sshopen",
+    "title": "Capturing attitudes towards research and data sharing in down syndrome (CARDS-DS): Piloting a novel parent-report measure",
+    "content": "Menon, A.A., Cohn, B., Dager, S.R., Estes, A.M., St John, T., Hazlett, H.C., Marrus, N., & MacDuffie, K.E.",
+    "link": "https://doi.org/10.1016/j.ssaho.2026.102673",
+    "publisher": "Social Sciences & Humanities Open, 2026",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1016/j.ssaho.2026.102673"
+      }
+    ],
+    "created_at": 1777593600,
+    "updated_at": 1777593600
+  },
+  {
+    "id": "cohn-2026-gimo",
+    "title": "Ethical and social implications of implementing polygenic embryo screening into clinical care: A scoping review",
+    "content": "Cohn, B., Barlevy, D., & L\u00e1zaro-Mu\u00f1oz, G.",
+    "link": "https://doi.org/10.1016/j.gimo.2026.104405",
+    "publisher": "Genetics in Medicine Open, 2026",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "key_publications",
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1016/j.gimo.2026.104405"
+      }
+    ],
+    "created_at": 1775001600,
+    "updated_at": 1775001600
+  },
+  {
+    "id": "trinidad-2025-gim",
+    "title": "Polygenic risk scores in the clinic: health-system leaders and primary care providers weigh in",
+    "content": "Trinidad, S.B., Fullerton, S.M., Cohn, B., Crosslin, D.R., & Jarvik, G.P.",
+    "link": "https://doi.org/10.1016/j.gim.2025.101575",
+    "publisher": "Genetics in Medicine, 2025",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1016/j.gim.2025.101575"
+      }
+    ],
+    "created_at": 1761955200,
+    "updated_at": 1761955200
+  },
+  {
+    "id": "cohn-2025-stemcellreports",
+    "title": "Transparency and ongoing communication with participants in brain organoid research: Consensus of an interdisciplinary working group",
+    "content": "Cohn, B., Doerr, M., Feliciano, P., Fullerton, S. M., Hendriks, S., Holm, S., Hyun, I., Jongsma, K., Meagher, K. M., Ross, M. E., Stein, J. L., Terry, S. F., & MacDuffie, K. E.",
+    "link": "https://doi.org/10.1016/j.stemcr.2025.102546",
+    "publisher": "Stem Cell Reports, 2025",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "key_publications",
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1016/j.stemcr.2025.102546"
+      }
+    ],
+    "created_at": 1754006400,
+    "updated_at": 1754006400
+  },
+  {
+    "id": "cohn-2025-phg",
+    "title": "Workplace genomic testing: What do company websites say about federal privacy and anti-discrimination laws?",
+    "content": "Cohn, B., Prince, A.E.R., Callahan, K., Roberts, J.S., Vogle, A., & Mathews, D.J.H.",
+    "link": "https://doi.org/10.1159/000546189",
+    "publisher": "Public Health Genomics, 2025",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "key_publications",
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1159/000546189"
+      }
+    ],
+    "created_at": 1740787200,
+    "updated_at": 1740787200
+  },
+  {
+    "id": "macduffie-2024-pediatrres",
+    "title": "Early Intervention services in the era of genomic medicine: setting a research agenda",
+    "content": "MacDuffie, K.E., Cohn, B., Appelbaum, P., et al.",
+    "link": "https://doi.org/10.1038/s41390-024-03668-5",
+    "publisher": "Pediatric Research, 2024",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1038/s41390-024-03668-5"
+      }
+    ],
+    "created_at": 1727740800,
+    "updated_at": 1727740800
+  },
+  {
+    "id": "claerhout-2024-heliyon",
+    "title": "Opt-in or out? Public perspectives on forensic DNA kinship investigations within the Dutch-speaking community",
+    "content": "Claerhout, S., Noppe, H., Cohn, B., & Borry, P.",
+    "link": "https://doi.org/10.1016/j.heliyon.2024.e300743",
+    "publisher": "Heliyon, 10(9), 2024",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1016/j.heliyon.2024.e300743"
+      }
+    ],
+    "created_at": 1714521600,
+    "updated_at": 1714521600
+  },
+  {
+    "id": "head-2024-whi",
+    "title": "Young Women's Perspectives on Being Screened for Hereditary Breast and Ovarian Cancer Risk During Routine Primary Care",
+    "content": "Head, M., Cohn, B., Wernli, K. J., Palazzo, L., Ehrlich, K., Matson, A., & Knerr, S.",
+    "link": "https://doi.org/10.1016/j.whi.2024.01.004",
+    "publisher": "Women's Health Issues, 34(3), 268\u2013275, 2024",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1016/j.whi.2024.01.004"
+      }
+    ],
+    "created_at": 1704067200,
+    "updated_at": 1704067200
+  },
+  {
+    "id": "cohn-2023-mggm",
+    "title": "Genomic testing in voluntary workplace wellness programs in the US: Evidence and challenges",
+    "content": "Cohn, B., Ryan, K.A., Hendy, K., Callahan, K., Roberts, J.S., Spector-Bagdady, K., Mathews, D.J., INSIGHT@Work Consortium, Blasco, D., Crumpler, N., & Feero, W.G.",
+    "link": "https://doi.org/10.1002/mgg3.2245",
+    "publisher": "Molecular Genetics & Genomic Medicine, 2023",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1002/mgg3.2245"
+      }
+    ],
+    "created_at": 1690848000,
+    "updated_at": 1690848000
+  },
+  {
+    "id": "basch-2022-jcg",
+    "title": "Direct-to-consumer genetic testing in the news: a descriptive analysis",
+    "content": "Basch, C.H., Hillyer, G.C., Samuel, L., Datuowei, E., & Cohn, B.",
+    "link": "https://doi.org/10.1007/s12687-022-00613-z",
+    "publisher": "Journal of Community Genetics, 1\u20137, 2022",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1007/s12687-022-00613-z"
+      }
+    ],
+    "created_at": 1661990400,
+    "updated_at": 1661990400
+  },
+  {
+    "id": "sanghavi-2022-npjgm",
+    "title": "Voluntary workplace genomic testing: Wellness benefit or Pandora's box?",
+    "content": "Sanghavi, K., Cohn, B., Feero, W.G., Ryan, K., Spector-Bagdady, K., Uhlmann, W.R., Lee, C., Roberts, J.S., Prince, A.E.R., & Mathews, D.J.H.",
+    "link": "https://doi.org/10.1038/s41525-021-00276-8",
+    "publisher": "npj Genomic Medicine, 7, 5, 2022",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1038/s41525-021-00276-8"
+      }
+    ],
+    "created_at": 1640995200,
+    "updated_at": 1640995200
+  },
+  {
+    "id": "ali-2021-bmcme",
+    "title": "A scoping review of genetics and genomics research ethics policies and guidelines for Africa",
+    "content": "Ali, J., Cohn, B., Mwaka, E., et al.",
+    "link": "https://doi.org/10.1186/s12910-021-00611-9",
+    "publisher": "BMC Medical Ethics, 22, 39, 2021",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": [
+      "journal"
+    ],
+    "buttons": [
+      {
+        "id": 1,
+        "title": "DOI",
+        "link": "https://doi.org/10.1186/s12910-021-00611-9"
+      }
+    ],
+    "created_at": 1622505600,
+    "updated_at": 1622505600
+  }
+]

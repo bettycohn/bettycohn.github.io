@@ -1,0 +1,352 @@
+[
+  {
+    "title": "Education",
+    "entries": [
+      {
+        "title": "PhD, Public Health Genetics",
+        "organization": "University of Washington, Seattle, WA",
+        "dates": "2022 - 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder",
+        "flag": "US",
+        "flag_alt": "Washington state flag"
+      },
+      {
+        "title": "Master of Bioethics (MBE)",
+        "organization": "Johns Hopkins University, Baltimore, MD",
+        "dates": "2019 - 2020",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johns Hopkins University logo placeholder",
+        "flag": "US",
+        "flag_alt": "Maryland state flag"
+      },
+      {
+        "title": "B.A., Biomedical Ethics (minor: Biological Anthropology)",
+        "organization": "Binghamton University, Vestal, NY",
+        "dates": "2015 - 2019",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Binghamton University logo placeholder",
+        "flag": "US",
+        "flag_alt": "New York state flag"
+      }
+    ]
+  },
+  {
+    "title": "Research Experience",
+    "entries": [
+      {
+        "title": "Postdoctoral Fellow",
+        "organization": "University of Pennsylvania (with Dr. Anna Wexler)",
+        "dates": "2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Pennsylvania logo placeholder",
+        "flag": "US",
+        "flag_alt": "Pennsylvania state flag",
+        "bullets": []
+      },
+      {
+        "title": "Graduate Research Assistant",
+        "organization": "University of Washington, Seattle, WA",
+        "dates": "Jan 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder",
+        "flag": "US",
+        "flag_alt": "Washington state flag",
+        "bullets": [
+          "Conducted a scoping review of peer-reviewed literature on the ethical use of digital trace data (e.g., social media, search histories) from caregivers of individuals with Alzheimer's disease and related dementias (ADRD), including systematic searching, screening, and data extraction across multiple databases.",
+          "Developed and applied a structured data extraction framework to assess reporting of ethical oversight (e.g., IRB approval), privacy, and consent considerations, synthesizing findings to identify gaps in ethical transparency in research involving vulnerable populations."
+        ]
+      },
+      {
+        "title": "Doctoral Researcher",
+        "organization": "University of Washington, Seattle, WA",
+        "dates": "Jul 2024 - Jun 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder",
+        "flag": "US",
+        "flag_alt": "Washington state flag",
+        "bullets": [
+          "Designed and implemented three mixed-methods research studies on how individuals experience and seek support after discovering misattributed parentage through genetic testing.",
+          "Led 27 remote one-hour interviews over 4 months.",
+          "Qualitatively synthesized 4,000+ Reddit posts and comments from genetic testing users, leading to an academic paper.",
+          "Recruited and supervised undergraduate second coders for each aim."
+        ]
+      },
+      {
+        "title": "Graduate Research Intern (HPV Vaccine Acceleration Program Partners Initiative)",
+        "organization": "JSI Research & Training Institute, Inc. (with D. Scott LaMontagne, PhD, MPH, FRSPH)",
+        "dates": "May 2025 - Aug 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "JSI Research & Training Institute logo placeholder",
+        "bullets": [
+          "Synthesized 39 implementation reports into a consolidated learning report on HPV vaccine rollout in Nigeria.",
+          "Developed and applied a codebook and conducted thematic analysis.",
+          "Produced summary tables, figures, and actionable recommendations for global health stakeholders."
+        ]
+      },
+      {
+        "title": "Graduate Research Assistant",
+        "organization": "Treuman Katz Center for Pediatric Bioethics and Palliative Care, University of Washington (with Kate MacDuffie, MA, PhD)",
+        "dates": "Sep 2023 - Aug 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder",
+        "flag": "US",
+        "flag_alt": "Washington state flag",
+        "bullets": [
+          "Conducted qualitative research (coding, data analysis, and manuscript preparation) on ethical considerations in pediatric genomic medicine, focusing on how whole genome sequencing impacts parents' experiences in the NICU and with children with developmental differences.",
+          "Recruited, managed, and led manuscript writing of an expert consensus-building working group to improve transparency and ongoing communication in brain organoid research, particularly in donor consent practices."
+        ]
+      },
+      {
+        "title": "Graduate Research Assistant",
+        "organization": "Department of Health Systems and Population Health, University of Washington (with Sarah Knerr, PhD, MPH)",
+        "dates": "Sep 2022 - Dec 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder",
+        "flag": "US",
+        "flag_alt": "Washington state flag",
+        "bullets": [
+          "Collaborated on research projects related to hereditary cancer genomics and cancer prevention by performing literature reviews, data collection, data preparation, coding, and analysis.",
+          "Independently wrote reports and manuscripts and communicated results to the project team."
+        ]
+      },
+      {
+        "title": "Applied ELSI Research Intern",
+        "organization": "Sage Bionetworks, Seattle, WA (with Megan Doerr, MS, LGC)",
+        "dates": "Jun 2023 - Sep 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Sage Bionetworks logo placeholder",
+        "flag": "US",
+        "flag_alt": "Washington state flag",
+        "bullets": [
+          "Contributed to a designated mental health research project by learning a new qualitative coding software and conducting research by coding, writing, and presenting results related to mental health research."
+        ]
+      },
+      {
+        "title": "Research Assistant",
+        "organization": "Johns Hopkins Berman Institute of Bioethics (with Debra Mathews, PhD, MA)",
+        "dates": "Feb 2021 - Aug 2022",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johns Hopkins Berman Institute of Bioethics logo placeholder",
+        "flag": "US",
+        "flag_alt": "Maryland state flag",
+        "bullets": [
+          "Conducted policy, literature, and landscape research on workplace genomic testing.",
+          "Synthesized findings into reports, presentations, and peer-reviewed publications."
+        ]
+      },
+      {
+        "title": "Research Assistant",
+        "organization": "Johns Hopkins Berman Institute of Bioethics (with Joseph Ali, JD)",
+        "dates": "Oct 2019 - Mar 2021",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johns Hopkins Berman Institute of Bioethics logo placeholder",
+        "flag": "US",
+        "flag_alt": "Maryland state flag",
+        "bullets": [
+          "Conducted a literature review, created a spreadsheet, and qualitatively coded to organize literature on the guidelines, acts, and policies in African countries addressing genomics and genetics research."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Teaching and Administrative Experience",
+    "entries": [
+      {
+        "title": "Graduate Teaching Assistant, United States Food Systems Policy",
+        "organization": "University of Washington (Dr. Aiden Irish)",
+        "dates": "Sep 2025 - Dec 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder",
+        "flag": "US",
+        "flag_alt": "Washington state flag",
+        "bullets": [
+          "Maintained course website; answered students' questions about course logistics, readings, and website; led small group discussions on policy memo writing; graded short assignments."
+        ]
+      },
+      {
+        "title": "Graduate Teaching Assistant, Research Methods in Food Systems, Nutrition, and Health",
+        "organization": "University of Washington (Dr. Marie Spiker)",
+        "dates": "Dec 2024 - Mar 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder",
+        "flag": "US",
+        "flag_alt": "Washington state flag",
+        "bullets": [
+          "Maintained course website; answered students' questions about course logistics, readings, and website; led small group discussions on quantitative and qualitative research methods; graded short assignments."
+        ]
+      },
+      {
+        "title": "Graduate Teaching Assistant, Direct-to-Consumer Genetic Testing: Uses and Issues",
+        "organization": "University of Washington (Jennifer Gogarten)",
+        "dates": "Mar 2024 - Jun 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder",
+        "flag": "US",
+        "flag_alt": "Washington state flag",
+        "bullets": [
+          "Maintained course website; answered students' questions about course logistics, readings, and website; led small group discussions on direct-to-consumer genetic testing ethical issues; graded short assignments."
+        ]
+      },
+      {
+        "title": "Ethics Program Coordinator",
+        "organization": "Johns Hopkins Berman Institute of Bioethics (Joseph Carrese, MD, MPH)",
+        "dates": "Jul 2021 - Aug 2022",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johns Hopkins Berman Institute of Bioethics logo placeholder",
+        "flag": "US",
+        "flag_alt": "Maryland state flag",
+        "bullets": [
+          "Coordinated meetings, educational programs, interdepartmental communication, and other tasks associated with the complexity of working within and across multiple departments at Johns Hopkins.",
+          "Provided technical and content support to develop educational materials, resources, and evaluation tools."
+        ]
+      },
+      {
+        "title": "Teaching Assistant, Foundations of Bioethics; Bioethics, Human Rights, & Global Health; and Food Ethics",
+        "organization": "Johns Hopkins Berman Institute of Bioethics (Anne Barnhill, PhD)",
+        "dates": "Aug 2020 - Apr 2021",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johns Hopkins Berman Institute of Bioethics logo placeholder",
+        "flag": "US",
+        "flag_alt": "Maryland state flag",
+        "bullets": [
+          "Maintained course website; answered students' questions about course logistics, readings, and website; led small group discussions on bioethics cases and issues; graded short assignments."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Presentations and Invited Lectures",
+    "entries": [
+      {
+        "title": "Ethical and social implications of implementing polygenic embryo screening into clinical care: A scoping review",
+        "organization": "Poster, ELSICon2026",
+        "dates": "Jun 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Conference logo placeholder"
+      },
+      {
+        "title": "Measuring social support for donor-conceived people on Reddit: A content analysis",
+        "organization": "Poster, ELSICon2026",
+        "dates": "Jun 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Conference logo placeholder"
+      },
+      {
+        "title": "Business Ethics in Biotech: From consumer rights to company profits",
+        "organization": "Guest Lecture, MKRT 620, School of Management, New York Institute of Technology",
+        "dates": "Mar 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Institution logo placeholder"
+      },
+      {
+        "title": "Online Health Communities and Genetic Testing",
+        "organization": "Guest Lecture, BIME 543, University of Washington",
+        "dates": "Nov 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder"
+      },
+      {
+        "title": "Online narratives and social support following misattributed parentage experiences from direct-to-consumer genetic testing",
+        "organization": "Abstract Presenter, Pediatric Bioethics Conference",
+        "dates": "Jul 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Conference logo placeholder"
+      },
+      {
+        "title": "Social support in online communities: a content analysis of r/donorconceived",
+        "organization": "Presenter, Design Use Build Doctoral Colloquium, University of Washington",
+        "dates": "May 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder"
+      },
+      {
+        "title": "Business Ethics in Biotech: From consumer rights to company profits",
+        "organization": "Guest Lecture, MKRT 102, School of Management, New York Institute of Technology",
+        "dates": "Dec 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Institution logo placeholder"
+      },
+      {
+        "title": "Ancestry-based limitations in polygenic risk estimation: PCP perspectives",
+        "organization": "Poster, ELSICon2024",
+        "dates": "Jun 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Conference logo placeholder"
+      },
+      {
+        "title": "Ethical implications of using polygenic risk scores for embryo selection: a systematic review",
+        "organization": "Poster, NHGRI Research Training and Career Development Annual Meeting",
+        "dates": "Apr 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Conference logo placeholder"
+      },
+      {
+        "title": "INSIGHT @ Work: An Interdisciplinary Study on the Ethical, Legal and Social Implications (ELSI) of Voluntary Workplace Genomic Testing (wGT)",
+        "organization": "Recorded Presentation, ELSICon2022",
+        "dates": "May-Jun 2022",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Conference logo placeholder"
+      },
+      {
+        "title": "A content analysis of direct-to-consumer DNA surprises in popular news",
+        "organization": "Presenter, Berman Institute Research Retreat, Johns Hopkins Berman Institute of Bioethics",
+        "dates": "Nov 2021",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johns Hopkins Berman Institute of Bioethics logo placeholder"
+      },
+      {
+        "title": "Neuroethics Workshop",
+        "organization": "Group Facilitator, Johns Hopkins School of Medicine",
+        "dates": "Mar 2021",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johns Hopkins School of Medicine logo placeholder"
+      },
+      {
+        "title": "Medical and Advertising Ethics",
+        "organization": "Guest Lecture, MKRT 501, School of Management, New York Institute of Technology",
+        "dates": "Nov 2020",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Institution logo placeholder"
+      },
+      {
+        "title": "Medical Ethical Issues in Our COVID-19 World",
+        "organization": "Guest Lecture, MKRT 301, School of Management, New York Institute of Technology",
+        "dates": "Oct 2020",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Institution logo placeholder"
+      },
+      {
+        "title": "Medical Ethical Issues in Our COVID-19 World",
+        "organization": "Guest Speaker, Professional Enrichment Program, School of Management, New York Institute of Technology",
+        "dates": "Jun 2020",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Institution logo placeholder"
+      },
+      {
+        "title": "The Ethics of Big Pharma: A Response to 'Developing Drugs for Developing Countries'",
+        "organization": "Poster, 5th Israel Organizational Behavior Conference",
+        "dates": "Jan 2020",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Conference logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Service",
+    "entries": [
+      {
+        "title": "Graduate Student Mentor",
+        "organization": "School of Public Health Mentorship Program, University of Washington",
+        "dates": "Jan 2025 - Aug 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Washington logo placeholder",
+        "flag": "US",
+        "flag_alt": "Washington state flag",
+        "bullets": [
+          "Met with one undergraduate student mentee once a month and offered guidance regarding career paths, career preparation, and professional development opportunities."
+        ]
+      }
+    ]
+  }
+]

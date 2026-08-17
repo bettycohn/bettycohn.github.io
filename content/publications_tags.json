@@ -1,0 +1,6 @@
+[
+  { "name": "key_publications", "title": "Key Publications" },
+  { "name": "journal", "title": "Journal Articles" },
+  { "name": "conference", "title": "Conference Papers" },
+  { "name": "preprint", "title": "Preprints" }
+]

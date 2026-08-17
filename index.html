@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal website</title>
+  <meta name="description" content="Personal website.">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <link rel="stylesheet" href="site/styles.css">
+</head>
+<body class="home-page">
+  <nav class="topbar" data-site-nav></nav>
+
+  <header class="hero">
+    <div class="container">
+      <div class="hero-layout">
+        <div class="hero-copy">
+          <h1 id="aboutTitle">About</h1>
+          <p class="subtitle" id="aboutBio"></p>
+          <div class="about-contact" id="aboutContact"></div>
+        </div>
+        <img class="profile-pic" id="profileImage" src="assets/prof_pic.jpg" alt="Profile photo">
+      </div>
+      <section class="news-section" aria-labelledby="news-title">
+        <h2 id="news-title">News</h2>
+        <div class="news-scroll" id="homeNewsList" aria-label="Recent news" aria-live="polite"></div>
+        <p class="news-more"><a href="pages/news.html">View all news</a></p>
+      </section>
+      <div class="social-links" id="socialLinks" aria-label="Social links"></div>
+    </div>
+  </header>
+
+  <footer class="site-footer" data-site-footer></footer>
+
+  <script src="site/script.js"></script>
+  <script src="site/news.js"></script>
+</body>
+</html>
