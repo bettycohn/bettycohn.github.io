@@ -3,12 +3,7 @@ const publicationsTags = document.getElementById("pubTags");
 const publicationsSearchInput = document.getElementById("pubSearchInput");
 const publicationsSearchButton = document.getElementById("pubSearchBtn");
 const publicationsResetButton = document.getElementById("pubResetBtn");
-const publicationsKeyTrack = document.getElementById("pubKeyTrack");
-const publicationsKeyTrackWrap = document.getElementById("pubKeyTrackWrap");
-const publicationsPrevButton = document.getElementById("pubPrev");
-const publicationsNextButton = document.getElementById("pubNext");
 
-const DEFAULT_PLACEHOLDER_COVER = "assets/images/publications/placeholder-cover.svg";
 const OPENALEX_WORKS_URL = "https://api.openalex.org/works";
 const OPENALEX_DOI_BATCH_SIZE = 50;
 
@@ -134,33 +129,6 @@ const renderNoResults = () => {
   publicationsList.appendChild(empty);
 };
 
-const createCoverNode = (publication) => {
-  const link = isUsableLink(publication.link) ? publication.link : null;
-  const imageSrc = publication.image || DEFAULT_PLACEHOLDER_COVER;
-
-  const image = document.createElement("img");
-  image.className = "pub-cover";
-  image.loading = "lazy";
-  image.src = window.resolveSiteUrl(imageSrc);
-  image.alt = publication.title || "Publication cover image";
-
-  if (link) {
-    const anchor = document.createElement("a");
-    anchor.className = "pub-cover-link";
-    anchor.href = link;
-    anchor.target = "_blank";
-    anchor.rel = "noopener noreferrer";
-    anchor.setAttribute("aria-label", publication.title || "Publication link");
-    anchor.appendChild(image);
-    return anchor;
-  }
-
-  const cover = document.createElement("div");
-  cover.className = "pub-cover-link";
-  cover.appendChild(image);
-  return cover;
-};
-
 const createTitleNode = (publication) => {
   if (isUsableLink(publication.link)) {
     const title = document.createElement("a");
@@ -215,8 +183,6 @@ const renderPublicationList = () => {
   publications.forEach((publication) => {
     const item = document.createElement("li");
     item.className = "pub-item";
-
-    item.appendChild(createCoverNode(publication));
 
     const body = document.createElement("div");
     body.className = "pub-item-body";
@@ -337,51 +303,6 @@ const renderTagFilters = () => {
   });
 };
 
-const renderKeyCarousel = () => {
-  if (!publicationsKeyTrack) {
-    return;
-  }
-
-  publicationsKeyTrack.innerHTML = "";
-  const keyPublications = publicationsState.items
-    .filter((publication) => Array.isArray(publication.tags) && publication.tags.includes("key_publications"))
-    .sort(sortByCreatedAtDescending);
-
-  const displayItems = keyPublications.length > 0 ? keyPublications : publicationsState.items.slice().sort(sortByCreatedAtDescending).slice(0, 6);
-
-  if (displayItems.length === 0) {
-    const empty = document.createElement("p");
-    empty.className = "pub-empty";
-    empty.textContent = "Add your key publications in content/publications.json.";
-    publicationsKeyTrack.appendChild(empty);
-    return;
-  }
-
-  displayItems.forEach((publication) => {
-    const image = document.createElement("img");
-    image.loading = "lazy";
-    image.src = window.resolveSiteUrl(publication.image || DEFAULT_PLACEHOLDER_COVER);
-    image.alt = publication.title || "Key publication cover";
-
-    if (isUsableLink(publication.link)) {
-      const link = document.createElement("a");
-      link.className = "pub-key-item";
-      link.href = publication.link;
-      link.target = "_blank";
-      link.rel = "noopener noreferrer";
-      link.setAttribute("aria-label", publication.title || "Key publication");
-      link.appendChild(image);
-      publicationsKeyTrack.appendChild(link);
-      return;
-    }
-
-    const box = document.createElement("div");
-    box.className = "pub-key-item";
-    box.appendChild(image);
-    publicationsKeyTrack.appendChild(box);
-  });
-};
-
 const attachSearchHandlers = () => {
   if (!publicationsSearchInput || !publicationsSearchButton || !publicationsResetButton) {
     return;
@@ -408,22 +329,6 @@ const attachSearchHandlers = () => {
     publicationsSearchInput.value = "";
     renderTagFilters();
     renderPublicationList();
-  });
-};
-
-const attachCarouselControls = () => {
-  if (!publicationsKeyTrackWrap || !publicationsPrevButton || !publicationsNextButton) {
-    return;
-  }
-
-  const getStep = () => Math.max(220, Math.round(publicationsKeyTrackWrap.clientWidth * 0.75));
-
-  publicationsPrevButton.addEventListener("click", () => {
-    publicationsKeyTrackWrap.scrollBy({ left: -getStep(), behavior: "smooth" });
-  });
-
-  publicationsNextButton.addEventListener("click", () => {
-    publicationsKeyTrackWrap.scrollBy({ left: getStep(), behavior: "smooth" });
   });
 };
 
@@ -463,11 +368,9 @@ const initializePublicationsPage = async () => {
         }))
       : [];
 
-    renderKeyCarousel();
     renderTagFilters();
     renderPublicationList();
     attachSearchHandlers();
-    attachCarouselControls();
 
     fetchOpenAlexCitationCounts()
       .then(() => {
