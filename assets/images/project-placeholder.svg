@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Project image placeholder</title>
+  <desc id="desc">Replace this file or update the image path in content/projects.json.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#e0e7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <circle cx="400" cy="290" r="105" fill="none" stroke="#6366f1" stroke-width="22"/>
+  <circle cx="720" cy="385" r="135" fill="none" stroke="#3b82f6" stroke-width="22"/>
+  <path d="M485 330 600 365" stroke="#475569" stroke-width="18"/>
+  <text x="600" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" fill="#334155">PROJECT IMAGE</text>
+</svg>

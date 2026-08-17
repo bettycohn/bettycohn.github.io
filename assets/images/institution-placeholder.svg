@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title">
+  <title id="title">Institution logo placeholder</title>
+  <rect width="240" height="240" rx="24" fill="#e2e8f0"/>
+  <path d="M35 92 120 45l85 47-85 47z" fill="#475569"/>
+  <path d="M65 117v58h110v-58l-55 31z" fill="#64748b"/>
+  <text x="120" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#334155">YOUR LOGO</text>
+</svg>
